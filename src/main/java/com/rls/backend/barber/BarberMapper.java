@@ -1,5 +1,6 @@
 package com.rls.backend.barber;
 
+import com.rls.backend.barber.domain.Barber;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;

@@ -1,4 +1,4 @@
-package com.rls.backend.barber;
+package com.rls.backend.barber.domain;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
